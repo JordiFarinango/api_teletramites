@@ -1,0 +1,6 @@
+@NuevaAPIteletramite_HostAddress = http://localhost:5084
+
+GET {{NuevaAPIteletramite_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
